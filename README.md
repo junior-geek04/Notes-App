@@ -1,2 +1,2 @@
 # My-Notes-App
-Made using react and django
+Made using React and Django
